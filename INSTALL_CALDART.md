@@ -16,7 +16,7 @@ No computador da Caldart, você precisará instalar:
 Abra o terminal (PowerShell ou CMD) na pasta onde deseja instalar e rode:
 
 ```bash
-git clone <URL_DO_NOVO_REPOSITORIO> sistema_monitoramento
+git clone https://github.com/christianrogergaio/monitoramento-caldart.git sistema_monitoramento
 cd sistema_monitoramento
 ```
 
